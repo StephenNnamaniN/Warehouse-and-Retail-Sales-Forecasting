@@ -78,8 +78,8 @@ See `/Warehouse_and_Retail_Sales_Project_Timeline.png` for Gantt chart.
 
 ## 📢 License & Contact
 
-- [Your Company/Name]
-- For inquiries, reach out via [your email or GitHub issues]
+- Stephen Nnamani
+- For inquiries, reach out via GitHub issues
 
 ---
 
